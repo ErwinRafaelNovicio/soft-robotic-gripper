@@ -661,7 +661,7 @@ The Soft-Float Gripper met its objective. It grasped apples, the target object, 
 
 ## 10. Team and references
 
-**Team (Group 12)**: Thomas Monaco · Christian Menini · Simone Bucci · Erwin Rafael Novicio
+**Team**: Thomas Monaco · Christian Menini · Simone Bucci · Erwin Rafael Novicio
 Course 059250 *Soft Robotics*, Politecnico di Milano, A.Y. 2025/26.
 
 **References**
