@@ -1,1 +1,0 @@
-# soft-robotic-gripper
